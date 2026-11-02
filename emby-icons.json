@@ -1,0 +1,182 @@
+{
+  "name": "Wubulaba Emby Icons",
+  "description": "Emby icons by wubulaba",
+  "icons": [
+    {
+      "name": "horizontal-action",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-action.png"
+    },
+    {
+      "name": "horizontal-action-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-action-white.png"
+    },
+    {
+      "name": "horizontal-animation",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-animation.png"
+    },
+    {
+      "name": "horizontal-animation-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-animation-white.png"
+    },
+    {
+      "name": "horizontal-comedy",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-comedy.png"
+    },
+    {
+      "name": "horizontal-comedy-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-comedy-white.png"
+    },
+    {
+      "name": "horizontal-crime",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-crime.png"
+    },
+    {
+      "name": "horizontal-crime-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-crime-white.png"
+    },
+    {
+      "name": "horizontal-documentary",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-documentary.png"
+    },
+    {
+      "name": "horizontal-documentary-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-documentary-white.png"
+    },
+    {
+      "name": "horizontal-drama",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-drama.png"
+    },
+    {
+      "name": "horizontal-drama-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-drama-white.png"
+    },
+    {
+      "name": "horizontal-fantasy",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-fantasy.png"
+    },
+    {
+      "name": "horizontal-fantasy-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-fantasy-white.png"
+    },
+    {
+      "name": "horizontal-horror",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-horror.png"
+    },
+    {
+      "name": "horizontal-horror-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-horror-white.png"
+    },
+    {
+      "name": "horizontal-mystery",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-mystery.png"
+    },
+    {
+      "name": "horizontal-mystery-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-mystery-white.png"
+    },
+    {
+      "name": "horizontal-romance",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-romance.png"
+    },
+    {
+      "name": "horizontal-romance-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-romance-white.png"
+    },
+    {
+      "name": "horizontal-sci-fi",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-sci-fi.png"
+    },
+    {
+      "name": "horizontal-sci-fi-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/horizontal-sci-fi-white.png"
+    },
+    {
+      "name": "vertical-action",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-action.png"
+    },
+    {
+      "name": "vertical-action-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-action-white.png"
+    },
+    {
+      "name": "vertical-animation",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-animation.png"
+    },
+    {
+      "name": "vertical-animation-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-animation-white.png"
+    },
+    {
+      "name": "vertical-comedy",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-comedy.png"
+    },
+    {
+      "name": "vertical-comedy-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-comedy-white.png"
+    },
+    {
+      "name": "vertical-crime",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-crime.png"
+    },
+    {
+      "name": "vertical-crime-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-crime-white.png"
+    },
+    {
+      "name": "vertical-documentary",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-documentary.png"
+    },
+    {
+      "name": "vertical-documentary-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-documentary-white.png"
+    },
+    {
+      "name": "vertical-drama",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-drama.png"
+    },
+    {
+      "name": "vertical-drama-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-drama-white.png"
+    },
+    {
+      "name": "vertical-fantasy",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-fantasy.png"
+    },
+    {
+      "name": "vertical-fantasy-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-fantasy-white.png"
+    },
+    {
+      "name": "vertical-horror",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-horror.png"
+    },
+    {
+      "name": "vertical-horror-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-horror-white.png"
+    },
+    {
+      "name": "vertical-mystery",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-mystery.png"
+    },
+    {
+      "name": "vertical-mystery-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-mystery-white.png"
+    },
+    {
+      "name": "vertical-romance",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-romance.png"
+    },
+    {
+      "name": "vertical-romance-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-romance-white.png"
+    },
+    {
+      "name": "vertical-sci-fi",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-sci-fi.png"
+    },
+    {
+      "name": "vertical-sci-fi-white",
+      "url": "https://raw.githubusercontent.com/wubulaba/emby-icons/main/vertical-sci-fi-white.png"
+    }
+  ]
+}
